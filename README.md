@@ -1,4 +1,4 @@
-praja
+PRAJA Render Manager
 =====
 
-Simple render manager
+A simple render queue manager for Blender.
